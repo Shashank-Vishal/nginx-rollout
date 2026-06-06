@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/Shashank-Vishal/nginx-rollout.git
     targetRevision: main
-    path: .
+    path: nginx-rollout-demo
 
   destination:
     server: https://kubernetes.default.svc
