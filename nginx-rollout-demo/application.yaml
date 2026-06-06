@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Shashank-Vishal/nginx-rollout-demo.git
+    repoURL: https://github.com/Shashank-Vishal/nginx-rollout.git
     targetRevision: main
     path: .
 
